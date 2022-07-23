@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "id": 1,
+      "fullName": " iqbal hehe",
+      "email": "iqbal@gmail.com",
+      "mobile": " 12312312",
+      "salary": "2.000.000"
+    },
+    {
+      "id": 2,
+      "fullName": "kurnia dama",
+      "email": "kurnia@gmail.com",
+      "mobile": "211312",
+      "salary": "100.000"
+    }
+  ]
+}
